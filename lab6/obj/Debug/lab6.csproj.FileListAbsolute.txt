@@ -1,0 +1,50 @@
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\bin\Debug\lab6.exe.config
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\bin\Debug\lab6.exe
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\bin\Debug\lab6.pdb
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.exe
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.pdb
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.Form2.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.Form3.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.Form4.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.Form5.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad5.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad6.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad7.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad8.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad9.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad10.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad11.resources
+D:\ИС1-21 НЕ УДАЛЯТЬ, В ФАЙЛЫ НЕ ЛЕЗТЬ думаю, если так назавть папку, то наоборот появится желание залезть и что-то сделать ну так к слову\сишарп\lab6\lab6\obj\Debug\lab6.zad12.resources
+F:\lab6\lab6\bin\Debug\lab6.exe.config
+F:\lab6\lab6\bin\Debug\lab6.exe
+F:\lab6\lab6\bin\Debug\lab6.pdb
+F:\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+F:\lab6\lab6\obj\Debug\lab6.Form1.resources
+F:\lab6\lab6\obj\Debug\lab6.Form2.resources
+F:\lab6\lab6\obj\Debug\lab6.Form3.resources
+F:\lab6\lab6\obj\Debug\lab6.Form4.resources
+F:\lab6\lab6\obj\Debug\lab6.Form5.resources
+F:\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+F:\lab6\lab6\obj\Debug\lab6.zad10.resources
+F:\lab6\lab6\obj\Debug\lab6.zad11.resources
+F:\lab6\lab6\obj\Debug\lab6.zad12.resources
+F:\lab6\lab6\obj\Debug\lab6.zad5.resources
+F:\lab6\lab6\obj\Debug\lab6.zad6.resources
+F:\lab6\lab6\obj\Debug\lab6.zad7.resources
+F:\lab6\lab6\obj\Debug\lab6.zad8.resources
+F:\lab6\lab6\obj\Debug\lab6.zad9.resources
+F:\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+F:\lab6\lab6\obj\Debug\lab6.exe
+F:\lab6\lab6\obj\Debug\lab6.pdb
+F:\lab6\lab6\obj\Debug\lab6.zad13.resources
+F:\lab6\lab6\obj\Debug\lab6.zad14.resources
+F:\lab6\lab6\obj\Debug\lab6.zad15.resources
+F:\lab6\lab6\obj\Debug\lab6.zad16.resources
+F:\lab6\lab6\obj\Debug\lab6.zad17.resources
+F:\lab6\lab6\obj\Debug\lab6.zad18.resources
+F:\lab6\lab6\obj\Debug\lab6.zad19.resources
+F:\lab6\lab6\obj\Debug\lab6.zad20.resources
